@@ -9,4 +9,4 @@
 ## Застосунки для ведення проєктів
 ### [JIRA](https://www.atlassian.com/software/jira) _пристосована для роботи розробників. В ній передбачені проблеми і робочі процеси для планування, розробки і випуску програмного продукту. Зокрема реалізовані найпопулярніші процеси управління проєктами такі як Scrum і Канбан._
 ### [Trello](https://trello.com/home) _багатоплатформна система управління проєктами, розроблена Trello Enterprise, дочірньою компанією Atlassian.Інтерфейс програми працює в форматі drag-and-drop, всі дані оновлюються динамічно на фоні._
-#### ![PowerBI](/path/to/https://support.content.office.net/uk-ua/media/54628b72-3f3b-4dd9-9437-e3d8d201d334.png) 
+#### ![PowerBI](/path/to/[https://support.content.office.net/uk-ua/media/54628b72-3f3b-4dd9-9437-e3d8d201d334.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fpowerbi.microsoft.com%2Fpictures%2Fshared%2Fsocial%2Fsocial-default-image.png&imgrefurl=https%3A%2F%2Fpowerbi.microsoft.com%2Fen-us%2F&tbnid=_N09Pr2znsfjlM&vet=12ahUKEwjinMrjjMn7AhUmlYsKHb-ZCSgQMygBegUIARC4AQ..i&docid=YqHaJvlyoxHj5M&w=1200&h=630&q=power%20bi%20logo&hl=uk&ved=2ahUKEwjinMrjjMn7AhUmlYsKHb-ZCSgQMygBegUIARC4AQ))
